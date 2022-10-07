@@ -636,6 +636,51 @@
   }
 }
 
+@media (min-width: 768px) {
+  .paragraph-null {
+    margin-top: 40px;
+    margin-left: 37px;
+   
+  }
+
+  .span-1 {
+    margin-left: 37px;
+  }
+
+  .span-2 {
+    margin-left: 37px;
+    width: 220px;
+  }
+
+  .span-3 {
+    display: inline-block;
+    width: 80px;
+    height: 16px;
+    background-color: var(--color-grey-5);
+    border-radius: 32px;
+    margin-top: 16px;
+    margin-left: 37px;
+  }
+
+  .span-4 {
+    display: inline-block;
+    width: 80px;
+    height: 16px;
+    background-color: var(--color-grey-5);
+    border-radius: 32px;
+    margin-left: 7px;
+  }
+
+  .span-5 {
+    display: inline-block;
+    width: 54px;
+    height: 16px;
+    background-color: var(--color-grey-5);
+    border-radius: 32px;
+    margin-left: 9px;
+  }
+}
+
 @media (min-width: 1024px) {
   .paragraph-null {
     margin-top: 40px;
